@@ -1,14 +1,6 @@
 server:
   port: 9001 # 服务端口
 #da
-management:
-  endpoint:
-    shutdown:
-      enabled: false
-  endpoints:
-    web:
-      exposure:
-        include: "*"
 
 data:
   env: "py"
