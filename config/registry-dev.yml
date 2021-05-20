@@ -11,10 +11,10 @@ management:
         include: "*"
 
 data:
-  env: py
+  env: "py"
   user:
-    username: py
-    password: py
+    username: "py"
+    password: "py"
 #da
 spring:
   application:
